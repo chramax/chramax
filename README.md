@@ -35,7 +35,7 @@
   
   <summary>Most used langauges<?summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/iamjaysondt/jayson-dl-project-t1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamjaysondt&layout=compact)](https://github.com/iamjaysondt/jayson-dl-project-t1)
 
 </details>
 
