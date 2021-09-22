@@ -25,14 +25,9 @@
 <br />
 
 
+### GitHub Stats
 
-</details>
+![Jayson's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjaysondt&show_icons=true&theme=tokyonight)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjaysondt&show_icons=true&theme=tokyonight)
-
-</details>
 
 [instagram]: https://instagram.com/jayson.docx
