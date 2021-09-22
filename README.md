@@ -32,6 +32,10 @@
   <summary>:zap: GitHub Stats</summary>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjaysondt)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <summary>Most used langauges<?summary>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/iamjaysondt/jayson-dl-project-t1)
 
 </details>
 
