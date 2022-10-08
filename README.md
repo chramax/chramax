@@ -1,15 +1,5 @@
 ### Hi there, I'm Jayson 👋
 
-## I am a Junior High School student
-
-- 🌱 I’m currently learning Object oriented JavaScript and Flutter
-- 🥅 2022 Goals: Make more useful utilities and projects that can help peoples lifes!
-- ⚡ Fun fact: I can play drums! And I love it!
-
-### Connect with me:
-
-[<img align="left" alt="jayson.docx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 ### Languages and Tools:
@@ -28,6 +18,3 @@
 ### GitHub Stats
 
 ![Jayson's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjaysondt&show_icons=true&theme=tokyonight)
-
-
-[instagram]: https://instagram.com/jayson.docx
